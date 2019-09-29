@@ -1,4 +1,8 @@
 Hello this is third file
 Remote change
 Remote change 2
+<<<<<<< HEAD
 Local change for merge conflict
+=======
+Remote change for merge conflict
+>>>>>>> 1e1803f749c5fc0cca25d448988adcd416d20a03

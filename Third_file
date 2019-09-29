@@ -5,4 +5,8 @@ Remote change 2
 Local change for merge conflict
 =======
 Remote change for merge conflict
+<<<<<<< HEAD
 >>>>>>> 1e1803f749c5fc0cca25d448988adcd416d20a03
+=======
+remote last change
+>>>>>>> 7bb041b6e39034180a571bfa26a0093e3e652695
